@@ -19,11 +19,3 @@ You can view the live demo of my portfolio website [here](https://portfolio-psi-
 - **CSS** - For styling and layout.
 - **JavaScript** - For interactivity and dynamic content.
 
-## 🚀 Getting Started
-
-To view or modify the website locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
